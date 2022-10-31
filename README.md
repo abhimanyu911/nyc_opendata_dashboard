@@ -4,3 +4,4 @@ A single page streamlit dashboard with requisite shell scripts to deploy the web
 
 # DEMO
 
+![](./demo_dash.gif)
