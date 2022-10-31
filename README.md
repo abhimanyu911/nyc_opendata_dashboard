@@ -8,3 +8,12 @@ A single page streamlit dashboard with requisite shell scripts to deploy the web
 
 # Local installation
 
+```
+git clone https://github.com/abhimanyu911/nyc_opendata_dashboard.git
+
+cd nyc_opendata_dashboard
+
+pip install -r requirements.txt
+
+streamlit run app.py
+```
