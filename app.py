@@ -4,8 +4,6 @@ import numpy as np
 import pydeck as pdk
 import plotly.express as px
 
-DATA_URL =(
-	"https://data.cityofnewyork.us/api/views/h9gi-nx95/rows.csv?accessType=DOWNLOAD")
 
 st.title("Motor vehicle collisions in New York City")
 st.markdown("This application is a Streamlit dashboard that can be used "
